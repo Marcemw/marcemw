@@ -7,7 +7,7 @@ Focusing on building robust management systems, exploring AI implementations, an
 
 ## 🛠️ Tech Stack & Tools
 
-- **Backend:** Python (Django, Flask), MySQL, SQL Server.
+- **Backend:** Python (Django, Flask), MySQL, SQL Server, Visual Basic, C#.
 - **Frontend:** Bootstrap, HTML5, CSS3, JavaScript.
 - **Data & AI:** NumPy, Pandas, NLP (NLTK), Local LLM Research (Ollama/Gemma).
 - **Game Dev:** Unity (C#), Game Design & Scene Architecture.
@@ -16,9 +16,9 @@ Focusing on building robust management systems, exploring AI implementations, an
 ---
 
 ## 🚀 Current Focus
-- **Web Architecture:** Developing scalable local network management systems for SME clients.
-- **AI Research:** Investigating open-source LLM deployment for privacy-focused business solutions.
-- **Game Design:** Applying software engineering patterns to Unity architecture (Singletons, State Machines).
+- **Web Architecture:** Developing scalable management solutions using **Django** and **Bootstrap** for SME clients.
+- **AI Research:** Investigating open-source **LLM** deployment for privacy-focused business solutions.
+- **Game Design:** Applying software engineering patterns to **Unity** architecture (Singletons, State Machines).
 
 ---
 
