@@ -9,9 +9,9 @@ Focusing on building robust management systems, exploring AI implementations, an
 
 - **Backend:** Python (Django, Flask), MySQL, SQL Server.
 - **Frontend:** Bootstrap, HTML5, CSS3, JavaScript.
-- **Game Dev:** Unity (C#), Game Design & Scene Architecture.
 - **Data & AI:** NumPy, Pandas, NLP (NLTK), Local LLM Research (Ollama/Gemma).
-- **Tools:** PyCharm, VS Code, Git/GitHub, Linux/Bash.
+- **Game Dev:** Unity (C#), Game Design & Scene Architecture.
+- **Tools:** PyCharm, VS Code, Git/GitHub.
 
 ---
 
